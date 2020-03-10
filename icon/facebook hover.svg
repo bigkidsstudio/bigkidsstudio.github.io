@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="78px" height="70px" viewBox="0 0 78 70" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60 (88103) - https://sketch.com -->
+    <title>icon/facebook hover</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icon/facebook-hover" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle-Copy-4" fill="#1877F2" x="0" y="0" width="78" height="70" rx="8"></rect>
+        <g id="facebook-f" transform="translate(29.000000, 17.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <path d="M16.1377393,5.97604483 L19.5555556,5.97604483 L19.5555556,0.252053379 C17.9007349,0.0816782635 16.2380116,-0.00243770472 14.5742701,0 C9.62934446,0 6.24788793,2.98804929 6.24788793,8.46004112 L6.24788793,13.1760341 L0.666666667,13.1760341 L0.666666667,19.5840245 L6.24788793,19.5840245 L6.24788793,36 L12.9380815,36 L12.9380815,19.5840245 L18.5011229,19.5840245 L19.3373971,13.1760341 L12.9380815,13.1760341 L12.9380815,9.09004018 C12.9380815,7.200043 13.447118,5.97604483 16.1377393,5.97604483 Z" id="Path"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="180px" height="96px" viewBox="0 0 180 96" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60 (88103) - https://sketch.com -->
+    <title>component/chat/messenger</title>
+    <desc>Created with Sketch.</desc>
+    <g id="web" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="portfolio" transform="translate(-324.000000, -1586.000000)">
+            <g id="component/chat/messenger" transform="translate(324.000000, 1586.000000)">
+                <rect id="Rectangle-Copy-7" fill="#F5F8FA" fill-rule="evenodd" x="0" y="0" width="180" height="96" rx="8"></rect>
+                <g id="Messenger_Logo_Color_RGB" stroke-width="1" fill-rule="evenodd" transform="translate(75.000000, 16.000000)">
+                    <path d="M14.9849246,0.0150753769 C6.54271357,0.0150753769 0,6.19899497 0,14.5507538 C0,18.919598 1.79095477,22.6944724 4.70653266,25.3025126 C4.95075377,25.5226131 5.09849246,25.8271357 5.11055276,26.1557789 L5.1919598,28.8211055 C5.21909548,29.6713568 6.09648241,30.2231156 6.87437186,29.8824121 L9.84723618,28.5708543 C10.1005025,28.4592965 10.3809045,28.438191 10.6462312,28.5105528 C12.0120603,28.8874372 13.4683417,29.0864322 14.9849246,29.0864322 C23.4271357,29.0864322 29.9698492,22.9025126 29.9698492,14.5507538 C29.9698492,6.19899497 23.4271357,0.0150753769 14.9849246,0.0150753769 Z" id="Bubble_Solid_3_" fill="#AAB8C2"></path>
+                    <path d="M5.9879397,18.8020101 L10.3899497,11.8190955 C11.0894472,10.7095477 12.5909548,10.4321608 13.640201,11.2190955 L17.1407035,13.8452261 C17.4633166,14.0864322 17.9035176,14.0834171 18.2231156,13.8422111 L22.9507538,10.2542714 C23.5809045,9.77487437 24.4070352,10.5316583 23.9819095,11.201005 L19.5829146,18.1809045 C18.8834171,19.2904523 17.3819095,19.5678392 16.3326633,18.7809045 L12.8321608,16.1547739 C12.5095477,15.9135678 12.0693467,15.9165829 11.7497487,16.1577889 L7.01909548,19.7487437 C6.38894472,20.2281407 5.56281407,19.4713568 5.9879397,18.8020101 Z" id="Bolt_4_" fill="#FFFFFF"></path>
+                </g>
+                <text id="Let’s-chat-via-messe" font-family="Geomanist-Regular, Geomanist" font-size="14" font-weight="normal" line-spacing="25" fill="#657786">
+                    <tspan x="16.104" y="73">Let’s chat via messenger </tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
